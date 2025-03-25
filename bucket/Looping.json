@@ -1,10 +1,12 @@
 {
     "version":  "4.1",
-    "license":  "",
-    "extract_dir":  "",
     "url":  "https://www.looping.fr/Looping.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
-    "bin":  ""
+    "homepage":  "https://www.looping.fr",
+    "bin":  "Looping.exe",
+    "shortcuts": [
+        [
+        "Looping.exe",
+        "Looping"
+        ]
+    ]
 }
